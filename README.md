@@ -20,6 +20,6 @@ Testing site for technology assignment. This is will be a guide for setting up a
 
 8. To make changes to your website, just edit the "index.html" file on your computer and repeat steps 5-7 to upload the new version of the file to Github.
 
-#Build Settings
+# Build Settings
 markdown: kramdown
 theme: jekyll-theme-cayman
