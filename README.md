@@ -101,11 +101,10 @@ This is a [Google](https://www.google.com "Google link try me") link..
 
 
 <!-- Tables -->
-| Name      | Email           |  
-|-----------|-----------------|  
-|Jesper W.  |jesper@gmail.com |  
-|Doe        |Doe@gmail.com    |  
-|G.I. Jane  |GI@gmail.com     | 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
 
 <!-- Task List -->
