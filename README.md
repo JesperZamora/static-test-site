@@ -1,6 +1,6 @@
 # static-test-site
 
-##Guide if you're 5 years old
+## Guide if you're 5 years old
 
 1. First, go to the Github website and create an account if you don't already have one. Once you have an account, log in.
 
