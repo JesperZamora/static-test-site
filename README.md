@@ -106,6 +106,11 @@ This is a [Google](https://www.google.com "Google link try me") link..
 | Header      | Title       |
 | Paragraph   | Text        |
 
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
 
 <!-- Task List -->
 * [x] Task 1
