@@ -21,4 +21,94 @@ Testing site for technology assignment. This is will be a guide for setting up a
 8. To make changes to your website, just edit the "index.html" file on your computer and repeat steps 5-7 to upload the new version of the file to Github.
 
 
-theme: jekyll-theme-cayman
+<!-- Headings -->
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+
+<!-- Italics -->
+*The text* is italic
+
+_The text_ is italic
+
+<!-- Strong -->
+**The text** is italic
+
+__The text__ is italic
+
+
+<!-- Strikethrough -->
+~~The text~~ is strikethrough
+
+<!-- Horizontal Rule -->
+---
+___
+
+<!-- Blockquote -->
+> This is a qoute
+
+
+<!-- Link -->
+This is a [Google](https://www.google.com) link..
+
+
+<!-- Titlelink (hover over link)-->
+This is a [Google](https://www.google.com "Google link try me") link..
+
+
+<!-- Unordered List -->
+* Item 1
+* Item 2
+* Item 3
+    * Nested Item 3.1
+    * Nested Item 3.2
+
+
+<!-- ordered List (will update number automaticly. Even if an item is deleted) -->
+1. Item 1
+1. Item 2
+1. Item 3  
+    3.1 Item 4  
+    3.2 Item 5
+1. Item 6
+
+
+<!-- Inline Code Block-->
+`This is a paragragh`
+
+
+<!-- Images -->
+![alt text](https://emmer.dev/static/img/blog/common-markdown-mistakes.jpg)
+
+
+
+<!-- Github MarkDown -->
+```bash
+  npm install
+
+  npm start
+```
+
+
+```javascript
+  function add(num1, num2) {
+    return num1 + num2;
+  }
+```
+
+
+<!-- Tables -->
+| Name      | Email           |
+|-----------|-----------------|
+|Jesper W.  |jesper@gmail.com |
+|Doe        |Doe@gmail.com    |
+|G.I. Jane  |GI@gmail.com     | 
+
+
+<!-- Task List -->
+* [x] Task 1
+* [x] Task 2
+* [ ] Task 3
