@@ -1,4 +1,6 @@
-# static-test-site
+# static-test-website
+Testing site for technology assignment. This is will be a guide for setting up a website hosted with github pages.
+
 
 ## Guide if you're 5 years old
 
