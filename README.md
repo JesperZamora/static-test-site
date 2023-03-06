@@ -19,3 +19,6 @@ Testing site for technology assignment. This is will be a guide for setting up a
 7. Your website should now be live at "username.github.io". If you go to that website in your web browser, you should see the content you wrote in the "index.html" file.
 
 8. To make changes to your website, just edit the "index.html" file on your computer and repeat steps 5-7 to upload the new version of the file to Github.
+
+
+theme: jekyll-theme-cayman
