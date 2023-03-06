@@ -101,6 +101,7 @@ This is a [Google](https://www.google.com "Google link try me") link..
 
 
 <!-- Tables -->
+
 | Syntax      | Description |
 | ----------- | ----------- |
 | Header      | Title       |
