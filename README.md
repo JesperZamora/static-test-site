@@ -100,11 +100,11 @@ As mentioned in the introduction, this site was created with **Markdown**. We'll
 
 There are different ways to create and edit your markdown-file and here are a few of them.
 
-- Create a file on your laptop and end it with **'md'**. Like this **randomtextfile.md** and go to your Github repository click on **Add file** -> **Upload file**. You can also create a file directly in your Github repositry by clicking **Add file** -> **Create new file**.
+- Create a file on your laptop and end it with **'md'**. Like this **randomtextfile.md** and go to your Github repository click on **Add file** -> **Upload file**.
 
 - Use **VSCode** directly from your laptop, create a textfile.md and edit it directly from the code-editor. While you're at it, install an extension [Auto-Open Markdown Preview][auto-open]. This will help give you a live preview while you're typing away.  
 
-- Create a file in your **Github repository** and use **VSCode** directly from github by creating a **codespace**.  
+- Create a file in your **Github repository** by clicking **Add file** -> **Create new file** and use **VSCode** directly from github by creating a **codespace**.  
 
 - Use a free web-application like **stackedit.io**. This editor also has an user interface for the most commmen usage of Markdown, which will **speed-up** the process if you don't remember the syntax.  
 
@@ -133,6 +133,5 @@ There are different ways to create and edit your markdown-file and here are a fe
 
 ---
 <br>
-
 
 
