@@ -119,7 +119,7 @@ There are different ways to create and edit your markdown-file and here are a fe
 
 
 <!-- Links -->
-[github]: (https://www.github.com/join)
+[github]: https://www.github.com/join
 [vsc]: https://code.visualstudio.com/download
 [stackedit]: https://stackedit.io/
 [codespace]: https://github.com/codespaces/new
