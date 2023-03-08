@@ -82,7 +82,7 @@ Visit your website at "username.github.io" in your web browser to confirm that i
 ### Markdown  
 So what is **Markdown** really? Well this is a technology assigenment, so lets ask [chatGBT][chat] for a definition 😁 
 
-> Markdown is a lightweight markup language used for formatting plain text >documents with headings, lists, links, and more. It's easy to read and write >syntax, making it useful for creating documents and web content, that can be >converted to other formats like HTML or PDF.  
+> Markdown is a lightweight markup language used for formatting plain text documents with headings, lists, links, and more. It's easy to read and write syntax, making it useful for creating documents and web content, that can be >converted to other formats like HTML or PDF.  
 > -ChatGBT  
 
 
