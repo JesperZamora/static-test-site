@@ -85,8 +85,6 @@ Visit your website at "username.github.io" in your web browser to confirm that i
 
 ## Markdown and helpfull links
 
-<br>
-
 ### Markdown  
 So what is **Markdown** really? Well this is a technology assigenment, so lets ask [chatGBT][chat] for a definition 😁 
 
