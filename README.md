@@ -23,12 +23,14 @@ Btw this whole page was created in **Markdown** 😉
 1. Go to the **[Github website][github]**, create an account and login. But of course you already have an account, riiiight?!
 
 2. On your Github dashboard, **click on the "+" button** in the top right corner and select **"New repository"**.  
+<br>
   
     ![githubpic1](githubpic1.png)
 
 <br>
 
 3. Give your repository a name like **"username.github.io"**, but replace **"username"** with your actual **Github username**. Make sure to select the option to make the repository public.  
+<br>
 
     ![githubpic2](githubpic2.png)
 
@@ -70,15 +72,73 @@ Btw this whole page was created in **Markdown** 😉
 8. Push your changes to Github by running the command git push origin main.
 Visit your website at "username.github.io" in your web browser to confirm that it is live.  
 <br>
+
 ---
 <br>
+
+## How to add a custom theme
+
 <br>
 
+---
+<br>
 
-* [x] Task 1
-* [x] Task 2
-* [ ] Task 3
+## Markdown and helpfull links
+
+<br>
+
+### Markdown  
+So what is **Markdown** really? Well this is a technology assigenment, so lets ask [chatGBT][chat] for a definition 😁 
+
+> Markdown is a lightweight markup language used for formatting plain text >documents with headings, lists, links, and more. It's easy to read and write >syntax, making it useful for creating documents and web content, that can be >converted to other formats like HTML or PDF.  
+> -ChatGBT  
+
+<br>
+
+As mentioned in the introduction, this site was created with **Markdown**. We'll not be going through basic syntax on this site. There is not need because of the abundence of free learning material on the web. But we here are some nice free material! 
+
+<br>
+
+- [Basic Markdown syntax][markdown-syntax] - MarkdownGuide
+- [Basic wrtting and formatting][github-markdown] - Github
+- [Markdown Crash Course][markdownCC] - Youtube
+
+<br>
+<br>
+
+### Editors and links
+
+There are different ways to create and edit your markdown-file and here are a few of them.
+
+- Create a file on your laptop and end it with **'md'**. Like this **randomtextfile.md** and go to your Github repository click on **Add file** -> **Upload file**. You can also create a file directly in your Github repositry by clicking **Add file** -> **Create new file**.
+
+- Use **VSCode** directly from your laptop, create a textfile.md and edit it directly from the code-editor. While you're at it, install an extension [Auto-Open Markdown Preview][auto-open]. This will help give you a live preview while you're typing away.  
+
+- Create a file in your **Github repository** and use **VSCode** directly from github by creating a **codespace**.  
+
+- Use a free web-application like **stackedit.io**. This editor also has an user interface for the most commmen usage of Markdown, which will **speed-up** the process if you don't remember the syntax.  
+<br>
+    | Program     | Description | Links |
+    | ----------- | ----------- | ---------- |
+    | VSCode      | From laptop | [VSCode][vsc] |
+    | VSCode      | Github Codepace | [Codepspace][codespace] |
+    | StackEdit   | Markdown editor | [StackEdit][stackedit] |     
 
 
 
-[github]: https://www.github.com/join
+
+<!-- Links -->
+[github]: (https://www.github.com/join)
+[vsc]: https://code.visualstudio.com/download
+[stackedit]: https://stackedit.io/
+[codespace]: https://github.com/codespaces/new
+[auto-open]: https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview
+[chat]: https://chat.openai.com/chat
+[markdown-syntax]: https://www.markdownguide.org/basic-syntax/
+[github-markdown]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+[markdownCC]: https://www.youtube.com/watch?v=HUBNt18RFbo&t=659s
+
+<br>
+
+---
+<br>
