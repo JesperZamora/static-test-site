@@ -75,7 +75,10 @@ Visit your website at "username.github.io" in your web browser to confirm that i
 <br>
 
 
-## 
+* [x] Task 1
+* [x] Task 2
+* [ ] Task 3
+
 
 
 [github]: https://www.github.com/join
