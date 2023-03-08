@@ -2,7 +2,6 @@
 <br>
 
 ## Introduction  
-<br>
 
 Welcome to the wonderful world of github and static websites! If you're new to the game, don't you worry - We'll be your guide through this exciting journey. We'll be exploring the power of **Markdown, GitHub, GitHub Pages**, and the static website generator **Jekyll**, to create an easy and beautiful website.  
 
@@ -16,9 +15,6 @@ Btw this whole page was created in **Markdown** 😉
 <br>
 
 ## The **'easy'** way!  
-
-<br>
-
 
 1. Go to the **[Github website][github]**, create an account and login. But of course you already have an account, riiiight?!
 
@@ -53,8 +49,6 @@ Btw this whole page was created in **Markdown** 😉
 
 ## The **'imma boss'** way!  
 
-<br>
-
 1. Create a new repository on Github with a name like "username.github.io", where "username" is your Github username.  
 
 2. Open a terminal or command prompt and navigate to the folder where you want to store your website files.  
@@ -84,6 +78,8 @@ Visit your website at "username.github.io" in your web browser to confirm that i
 <br>
 
 ## Markdown and helpfull links
+
+<br>
 
 ### Markdown  
 So what is **Markdown** really? Well this is a technology assigenment, so lets ask [chatGBT][chat] for a definition 😁 
@@ -139,5 +135,3 @@ There are different ways to create and edit your markdown-file and here are a fe
 
 ---
 <br>
-
-
